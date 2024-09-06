@@ -22,8 +22,8 @@ A multi-page web application developed with React.js and Vite, featuring essenti
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/react-authentication-with-firebase.git
-   cd react-authentication-with-firebase
+   git clone https://github.com/aboelnasrvip/React_Authentication_With_Firebase.git)
+   cd React_Authentication_With_Firebase
 
 2. **Install dependencies:**
    ```bash
